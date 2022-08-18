@@ -1,0 +1,25 @@
+
+
+.item{
+    cursor: pointer;
+    overflow: hidden;
+}
+.item-caption{
+    cursor: pointer;
+    bottom: 20px;
+    width: 80%;
+    left: 10%;
+    padding: 10px;
+}
+
+.lightbox{
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.lightboxitem{
+    background-size: 100% 100%;
+}
+.lightboxitem i {
+cursor: pointer;
+}
+
